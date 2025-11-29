@@ -9,7 +9,7 @@ Este projeto é uma **simulação educacional de ransomware**, desenvolvida para
 
 ---
 
-## ⚠️ Aviso Ético
+##  Aviso Ético
 
 Este repositório é destinado **exclusivamente para fins educacionais**.  
 Não utilize este código em máquinas de terceiros, ambientes corporativos ou sistemas que não sejam de seu total controle.
@@ -18,7 +18,7 @@ O projeto foi desenvolvido com **limitações intencionais** para evitar qualque
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 O objetivo principal deste projeto é apresentar, de forma controlada, como ransomwares utilizam:
 
@@ -32,7 +32,7 @@ O foco é **ensino**, não a criação de malware funcional.
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3  
 - PyCryptodome (AES)  
@@ -40,7 +40,17 @@ O foco é **ensino**, não a criação de malware funcional.
 - JSON  
 - Manipulação de arquivos  
 
+
 ---
 
-## 🧠 Arquitetura da Simulação
+##  Como Executar (Somente em Ambiente Controlado)
+
+1. Crie um diretório **vazio** para testes.  
+2. Coloque arquivos de teste dentro desse diretório.  
+3. Execute o script principal:
+
+```bash
+python encrypter.py
+python decrypter.py
+
 
